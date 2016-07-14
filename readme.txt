@@ -5,5 +5,5 @@
 \deftab420
 \pard\pardeftab420\ri380\partightenfactor0
 
-\f0\fs24 \cf0 Git is a version control system.\
+\f0\fs24 \cf0 Git is a distributed version control system.\
 Git is free software.}
